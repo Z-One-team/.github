@@ -1,12 +1,38 @@
-## Hi there 👋
+# Z-One Team
 
-<!--
+**Z-One Team** – Innovatsion loyihalar yaratishga qaratilgan, backend va frontend dasturchilarni birlashtiruvchi professional jamoa.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 📌 Haqida
+
+- **Asoschi:** zero1max  
+- **Maqsad:** Birgalikda zamonaviy texnologiyalar asosida yuqori sifatli yechimlar yaratish.  
+- **Jamoa:** Backend va frontend bo'yicha tajribali dasturchilar.
+
+---
+
+## ✨ Bizning yo'nalishlar
+
+- 🔧 Backend dasturlash (Python/Django, REST API'lar)  
+- 🎨 Frontend dasturlash (React.js, Vue.js, va boshqalar)  
+- 🚀 Innovatsion yechimlarni ishlab chiqish  
+- 🌐 Ochiq manbali loyihalar (Open-source)
+
+---
+
+## 📞 Bog‘lanish
+
+- **Email:** z.one.team@gmail.com  
+- **GitHub:** [Z-One Team](https://github.com/Z-One-Team)  
+- **Telegram:** [Telegram guruhi](#)
+
+---
+
+## 🌟 Qanday hissa qo‘shishingiz mumkin?
+
+1. Repozitoriyni fork qiling.  
+2. O'zingizning o'zgartirishlaringizni qiling.  
+3. Pull request orqali taklif yuboring.  
+
+Bizning hamjamiyatga qo‘shiling va loyihalarimizni birgalikda rivojlantiraylik! 😊

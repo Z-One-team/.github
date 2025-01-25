@@ -2,7 +2,7 @@
 
 **Z-One Team** – Innovatsion loyihalar yaratishga qaratilgan, backend va frontend dasturchilarni birlashtiruvchi professional jamoa.
 
-![zone github banner](https://github.com/user-attachments/assets/22ef082d-1b56-49e3-8298-641a09bb4ab8)
+![zone github banner](https://github.com/user-attachments/assets/d5ec7836-0c04-4c7b-be1b-ce65e72fbf1e)
 
 ## 📌 Haqida
 
